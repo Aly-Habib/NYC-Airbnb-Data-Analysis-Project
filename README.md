@@ -1,5 +1,5 @@
 # NYC-Airbnb-Data-Analysis-Project
-**In this project, I will do the following:**
+**In this project, I did the following:**
 - Data cleaning 🧹
 - Exploring relationships 🔍
 - Answering key questions ❓
